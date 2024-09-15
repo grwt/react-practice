@@ -9,7 +9,7 @@ prerequisite:
 
 
 
-To see these projects firstly, 
+To see these projects firstly: 
 1.clone this repo https://github.com/grwt/react-practice.git
-2. Navigate to the project folder you want to run by using cd <folder name> on your terminal
+2.Navigate to the project folder you want to run by using cd <folder name> on your terminal
 3. run npm.run.dev
